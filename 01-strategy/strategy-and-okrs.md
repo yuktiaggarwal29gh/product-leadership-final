@@ -1,4 +1,4 @@
-# Product Strategy One-Pager & OKRs, Module 1
+.# Product Strategy One-Pager & OKRs, Module 1
 
 - **Scenario:** Meridian Foundations (B2B)
 
@@ -52,7 +52,7 @@ We will not build features whose primary user is an office-based PM planning, as
 
 ## AI pressure-test
 - **Which challenge from the AI is most valid, and why?:** Reconsidering the hard no since the line between advanced PM feature and the enterprise integration depth was not defined
-- **What would you change based on the pushback, and what would you defend?:** Hard no
+- **What would you change based on the pushback, and what would you defend?:** Updated the Hard no to define the line between advanced PM features and enterprise inetgration depth
 
 ## 6. AI pressure-test notes
 
