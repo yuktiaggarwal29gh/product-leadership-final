@@ -48,7 +48,7 @@ We will not build features whose primary user is an office-based PM planning, as
 - **Objective:** Make Meridian the trusted daily system of record for field work — increasing adoption while proving that faster field reporting produces more accurate, more actionable data for office and project teams.
 - **KR1:** Increase Field Adoption: Increase Weekly Active Field Users (WAFU) from 45% to 75% by the end of Q2.
 - **KR2:** Improve Daily Reporting: Increase daily report completion rate from 50% to 85% by the end of Q2.
-- **KR3:** Improve Efficiency:  Reduce the average time to submit a field report from 10 minutes to 3 minutes by the end of Q2.
+- **KR3:** Reduce schedule-surpirse incidents: Establish baseline and instrument tracking for schedule-surprise incidents by Q2, reduce by 10% by Q3
 
 ## AI pressure-test
 - **Which challenge from the AI is most valid, and why?:** Reconsidering the hard no since the line between advanced PM feature and the enterprise integration depth was not defined
