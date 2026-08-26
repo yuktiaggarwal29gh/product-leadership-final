@@ -46,7 +46,7 @@ Protect
 
 
 ## 4. One hard no
-We will not build features whose primary user is an office-based PM planning, assigning, or allocating work. We will build the field-capture and integration depth needed to feed PM and ERP systems trustworthy data — that is not a PM feature, it is the delivery mechanism for our core promise.
+** We will not remove or materially degrade finance/compliance capabilities that are proven drivers of enterprise retention. However, we will reconsider investment levels and architecture if those capabilities unnecessarily constrain field adoption.
 
 ## 5. OKR cascade
 - **Objective:** Make Meridian the trusted daily system of record for field work — increasing adoption while proving that faster field reporting produces more accurate, more actionable data for office and project teams.
@@ -85,8 +85,7 @@ _[link to your Strategy Sprint Builder export in your repo]_
 
 - **Management systems: the metrics and rituals that keep your choices alive quarter to quarter.:
 ## Name your one hard no
-- **Your one hard no:** We will not remove or materially degrade finance/compliance capabilities that are proven drivers of enterprise retention. However, we will reconsider investment levels and architecture if those capabilities unnecessarily constrain field adoption.
-
+- **Your one hard no:
 ## Write your three OKRs
 - **Objective:** Make Meridian indispensable to field teams while protecting the enterprise capabilities that drive system-of-record value.
 - **KR1:** Field behavior:
