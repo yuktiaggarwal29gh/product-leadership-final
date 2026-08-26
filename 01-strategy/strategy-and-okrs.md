@@ -77,10 +77,25 @@ We will not build features whose primary user is an office-based PM planning, as
 _[link to your Strategy Sprint Builder export in your repo]_
 ----------000000000000
 
-** 
+- **Capabilities required: what you must be world-class at. What will you build, buy, or partner for?:** To win, Meridian must be exceptional at connecting field simplicity with enterprise trust.
 
+Build
 
-- **Capabilities required: what you must be world-class at. What will you build, buy, or partner for?:** 
+* Field-first experience: Extremely fast capture of photos, updates, issues, and voice notes.
+* Offline-first reliability: Capture and sync reliably on job sites with poor connectivity.
+* Field-to-enterprise data layer: Seamlessly move field information into the existing system of record without duplicate entry or loss of context.
+
+Build/Buy
+
+* AI-assisted input: Voice, OCR, image understanding, and summarization to reduce documentation effort. AI is an accelerator, not the moat.
+
+Partner
+
+* Construction ecosystem integrations: BIM, scheduling, and other specialized platforms where integration extends value without expanding Meridian’s core product scope.
+
+Protect
+
+* Enterprise trust layer: Finance, compliance, security, permissions, auditability, and data integrity remain non-negotiable.
 - **Management systems: the metrics and rituals that keep your choices alive quarter to quarter.:** Core metric: % of eligible field users completing at least one meaningful documentation action per shift, tracked separately for mid-market churn-risk accounts and $50M+ enterprise accounts.
 
 Business validation: Track retention and churn by field-adoption cohort to determine whether increased field adoption actually improves customer retention.
@@ -108,14 +123,6 @@ Reduce annual churn among $5M–$50M customers from 22% → 10% within 12 months
 ## AI pressure-test
 - **Which challenge from the AI is most valid, and why?:** The winning aspiration was not clearly answering the question: What does winning look like for the customer?
 - **What would you change based on the pushback, and what would you defend?:** I updated the winning aspiration based on the feedback to connect the Field users customer base to the Enterprise buyer while still defending the OKRs
-
-
-
-
-
-
-
-
 
 
 
