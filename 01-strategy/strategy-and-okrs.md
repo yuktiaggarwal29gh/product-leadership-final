@@ -50,17 +50,19 @@ Protect
 ## 5. OKR cascade
 - **Objective:** Make Meridian indispensable to field teams while protecting the enterprise capabilities that drive system-of-record value.
 - **KR1:** Field behavior:
-		Increase the percentage of eligible field users who use Meridian as their primary channel for daily field documentation from 12% → 55% within 12 months.
+Increase the percentage of eligible field users who use Meridian as their primary channel for daily field documentation from 12% → 55% within 12 months.
 - **KR2:** Enterprise guardrail:
 Maintain finance/compliance feature adoption at ≥95% of current baseline and enterprise renewal rate with no more than a 2-percentage-point decline among $50M+ accounts over 12 months.
 - **KR3:** Business outcome:
-Reduce annual churn among $5M–$50M customers from 22% → 10% within 12 months, while tracking churn by field-adoption cohort to validate whether increased field adoption improves retention.
+Reduce annual churn among $5M–$50M customers from 22% → 10% within 12 months, while tracking churn by field-adoption cohort to validate whether increased field adoption improves retentio## AI pressure-test
+- **Which challenge from the AI is most valid, and why?:** The winning aspiration was not clearly answering the question: What does winning look like for the customer?
+- **What would you change based on the pushback, and what would you defend?:** I updated the winning aspiration based on the feedback to connect the Field users customer base to the Enterprise buyer while still defending the OKRs
 
-## AI pressure-test
-- **Which challenge from the AI is most valid, and why?:** Reconsidering the hard no since the line between advanced PM feature and the enterprise integration depth was not defined
-- **What would you change based on the pushback, and what would you defend?:** Updated the Hard no to define the line between advanced PM features and enterprise inetgration depth
+## 6. AI pressure-test
+- **Which challenge from the AI is most valid, and why?:** The winning aspiration was not clearly answering the question: What does winning look like for the customer?
+- **What would you change based on the pushback, and what would you defend?:** I updated the winning aspiration based on the feedback to connect the Field users customer base to the Enterprise buyer while still defending the OKRs
 
-## 6. AI pressure-test notes
+## 7. AI pressure-test notes
 
 | Prompt question | What the AI surfaced | Change or defend? |
 |---|---|---|
@@ -82,12 +84,5 @@ Reduce annual churn among $5M–$50M customers from 22% → 10% within 12 months
 ## Link to full artifact
 
 _[link to your Strategy Sprint Builder export in your repo]_
-----------000000000000
-- **KR2:** - **KR3:** 
-
-## AI pressure-test
-- **Which challenge from the AI is most valid, and why?:** The winning aspiration was not clearly answering the question: What does winning look like for the customer?
-- **What would you change based on the pushback, and what would you defend?:** I updated the winning aspiration based on the feedback to connect the Field users customer base to the Enterprise buyer while still defending the OKRs
-
 
 
