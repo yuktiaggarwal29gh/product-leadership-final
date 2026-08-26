@@ -44,15 +44,17 @@ Protect
 
  * Falsification trigger: If field adoption materially improves without corresponding improvement in retention after two quarters, reassess the assumption that field adoption is the primary driver of churn.
 
-
 ## 4. One hard no
  We will not remove or materially degrade finance/compliance capabilities that are proven drivers of enterprise retention. However, we will reconsider investment levels and architecture if those capabilities unnecessarily constrain field adoption.
 
 ## 5. OKR cascade
-- **Objective:** Make Meridian the trusted daily system of record for field work — increasing adoption while proving that faster field reporting produces more accurate, more actionable data for office and project teams.
-- **KR1:** Increase Field Adoption: Increase Weekly Active Field Users (WAFU) from 45% to 75% by the end of Q2.
-- **KR2:** Improve Daily Reporting: Increase daily report completion rate from 50% to 85% by the end of Q2.
-- **KR3:** Reduce schedule-surpirse incidents: Establish baseline and instrument tracking for schedule-surprise incidents by Q2, reduce by 10% by Q3
+- **Objective:** Make Meridian indispensable to field teams while protecting the enterprise capabilities that drive system-of-record value.
+- **KR1:** Field behavior:
+		Increase the percentage of eligible field users who use Meridian as their primary channel for daily field documentation from 12% → 55% within 12 months.
+- **KR2:** Enterprise guardrail:
+Maintain finance/compliance feature adoption at ≥95% of current baseline and enterprise renewal rate with no more than a 2-percentage-point decline among $50M+ accounts over 12 months.
+- **KR3:** Business outcome:
+Reduce annual churn among $5M–$50M customers from 22% → 10% within 12 months, while tracking churn by field-adoption cohort to validate whether increased field adoption improves retention.
 
 ## AI pressure-test
 - **Which challenge from the AI is most valid, and why?:** Reconsidering the hard no since the line between advanced PM feature and the enterprise integration depth was not defined
@@ -81,19 +83,7 @@ Protect
 
 _[link to your Strategy Sprint Builder export in your repo]_
 ----------000000000000
-
-
-- **Management systems: the metrics and rituals that keep your choices alive quarter to quarter.:
-## Name your one hard no
-- **Your one hard no:
-## Write your three OKRs
-- **Objective:** Make Meridian indispensable to field teams while protecting the enterprise capabilities that drive system-of-record value.
-- **KR1:** Field behavior:
-Increase the percentage of eligible field users who use Meridian as their primary channel for daily field documentation from 12% → 55% within 12 months.
-- **KR2:** Enterprise guardrail:
-Maintain finance/compliance feature adoption at ≥95% of current baseline and enterprise renewal rate with no more than a 2-percentage-point decline among $50M+ accounts over 12 months.
-- **KR3:** Business outcome:
-Reduce annual churn among $5M–$50M customers from 22% → 10% within 12 months, while tracking churn by field-adoption cohort to validate whether increased field adoption improves retention.
+- **KR2:** - **KR3:** 
 
 ## AI pressure-test
 - **Which challenge from the AI is most valid, and why?:** The winning aspiration was not clearly answering the question: What does winning look like for the customer?
