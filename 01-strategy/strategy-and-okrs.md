@@ -11,14 +11,13 @@
 | How to win | We win by combining the speed and simplicity of a mobile-first field experience with the trusted enterprise system of record Meridian already owns. Field teams can capture and share job-site information faster than using a camera and group text, while that information flows directly into the finance, compliance, and operational workflows the enterprise already depends on. Our advantage comes from connecting these two experiences without allowing enterprise complexity to slow down the field. |
 
 ## 2. Capabilities required 
-.	To win, Meridian must be exceptional at connecting field simplicity with enterprise trust.
-
-* Build:** Field-first experience: Extremely fast capture of photos, updates, issues, and voice notes.
+ 	To win, Meridian must be exceptional at connecting field simplicity with enterprise trust.
+ 	 Build:** Field-first experience: Extremely fast capture of photos, updates, issues, and voice notes.
 		**Offline-first reliability: Capture and sync reliably on job sites with poor connectivity.
 		** Field-to-enterprise data layer: Seamlessly move field information into the existing system of record without duplicate entry or loss of context.
-* Build/Buy:** AI-assisted input: Voice, OCR, image understanding, and summarization to reduce documentation effort. AI is an accelerator, not the moat.
-* Partner:** Construction ecosystem integrations: BIM, scheduling, and other specialized platforms where integration extends value without expanding Meridian’s core product scope.
-* Protect:** Enterprise trust layer: Finance, compliance, security, permissions, auditability, and data integrity remain non-negotiable.
+ 	Build/Buy:** AI-assisted input: Voice, OCR, image understanding, and summarization to reduce documentation effort. AI is an accelerator, not the moat.
+ 	Partner:** Construction ecosystem integrations: BIM, scheduling, and other specialized platforms where integration extends value without expanding Meridian’s core product scope.
+ 	Protect:** Enterprise trust layer: Finance, compliance, security, permissions, auditability, and data integrity remain non-negotiable.
 
  
 ## 3. Management systems 
