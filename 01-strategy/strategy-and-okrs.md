@@ -32,20 +32,18 @@ Protect
 * Enterprise trust layer: Finance, compliance, security, permissions, auditability, and data integrity remain non-negotiable.
  
 ## 3. Management systems 
- 	To support this strategy, Meridian should track:
+ 	Core metric: % of eligible field users completing at least one meaningful documentation action per shift, tracked separately for mid-market churn-risk accounts and $50M+ enterprise accounts.
 
-	* Customer renewal and expansion rates
-	* NPS from field users (not just office managers)
-	* Weekly Active Field Users (WAFU)
-	* Daily report completion rate
-	* Average time to submit a field report
-	* Photo uploads per active project
-	* 30-day field user retention
+ 	Business validation: Track retention and churn by field-adoption cohort to determine whether increased field adoption actually improves customer retention.
 
- 	The operating rhythm should include:
-	* Weekly reviews of field adoption metrics.
-	* Monthly visits to construction sites for user observation.
-	* Quarterly roadmap reviews tied to adoption and business outcomes. 
+ 	Experience metrics: Median time from opening Meridian to a completed field update and % of field documentation completed without switching to camera, text, or another workflow.
+
+ 	Enterprise guardrails: Enterprise renewal, finance/compliance usage, data integrity, and critical workflow reliability must remain at or above defined thresholds.
+
+ 	Rituals: Weekly field-adoption review; monthly field observation/customer reality checks; quarterly strategy review connecting field adoption to retention and revenue.
+
+ 	Falsification trigger: If field adoption materially improves without corresponding improvement in retention after two quarters, reassess the assumption that field adoption is the primary driver of churn.
+
 
 ## 4. One hard no
 We will not build features whose primary user is an office-based PM planning, assigning, or allocating work. We will build the field-capture and integration depth needed to feed PM and ERP systems trustworthy data — that is not a PM feature, it is the delivery mechanism for our core promise.
@@ -85,18 +83,7 @@ _[link to your Strategy Sprint Builder export in your repo]_
 ----------000000000000
 
 
-- **Management systems: the metrics and rituals that keep your choices alive quarter to quarter.:** Core metric: % of eligible field users completing at least one meaningful documentation action per shift, tracked separately for mid-market churn-risk accounts and $50M+ enterprise accounts.
-
-Business validation: Track retention and churn by field-adoption cohort to determine whether increased field adoption actually improves customer retention.
-
-Experience metrics: Median time from opening Meridian to a completed field update and % of field documentation completed without switching to camera, text, or another workflow.
-
-Enterprise guardrails: Enterprise renewal, finance/compliance usage, data integrity, and critical workflow reliability must remain at or above defined thresholds.
-
-Rituals: Weekly field-adoption review; monthly field observation/customer reality checks; quarterly strategy review connecting field adoption to retention and revenue.
-
-Falsification trigger: If field adoption materially improves without corresponding improvement in retention after two quarters, reassess the assumption that field adoption is the primary driver of churn.
-
+- **Management systems: the metrics and rituals that keep your choices alive quarter to quarter.:
 ## Name your one hard no
 - **Your one hard no:** We will not remove or materially degrade finance/compliance capabilities that are proven drivers of enterprise retention. However, we will reconsider investment levels and architecture if those capabilities unnecessarily constrain field adoption.
 
