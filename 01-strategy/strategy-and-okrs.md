@@ -46,7 +46,7 @@ Protect
 
 
 ## 4. One hard no
-** We will not remove or materially degrade finance/compliance capabilities that are proven drivers of enterprise retention. However, we will reconsider investment levels and architecture if those capabilities unnecessarily constrain field adoption.
+ We will not remove or materially degrade finance/compliance capabilities that are proven drivers of enterprise retention. However, we will reconsider investment levels and architecture if those capabilities unnecessarily constrain field adoption.
 
 ## 5. OKR cascade
 - **Objective:** Make Meridian the trusted daily system of record for field work — increasing adoption while proving that faster field reporting produces more accurate, more actionable data for office and project teams.
