@@ -32,17 +32,17 @@ Protect
 * Enterprise trust layer: Finance, compliance, security, permissions, auditability, and data integrity remain non-negotiable.
  
 ## 3. Management systems 
- 	Core metric: % of eligible field users completing at least one meaningful documentation action per shift, tracked separately for mid-market churn-risk accounts and $50M+ enterprise accounts.
+ Core metric: % of eligible field users completing at least one meaningful documentation action per shift, tracked separately for mid-market churn-risk accounts and $50M+ enterprise accounts.
 
- 	Business validation: Track retention and churn by field-adoption cohort to determine whether increased field adoption actually improves customer retention.
+ Business validation: Track retention and churn by field-adoption cohort to determine whether increased field adoption actually improves customer retention.
 
- 	Experience metrics: Median time from opening Meridian to a completed field update and % of field documentation completed without switching to camera, text, or another workflow.
+ Experience metrics: Median time from opening Meridian to a completed field update and % of field documentation completed without switching to camera, text, or another workflow.
 
- 	Enterprise guardrails: Enterprise renewal, finance/compliance usage, data integrity, and critical workflow reliability must remain at or above defined thresholds.
+ Enterprise guardrails: Enterprise renewal, finance/compliance usage, data integrity, and critical workflow reliability must remain at or above defined thresholds.
 
- 	Rituals: Weekly field-adoption review; monthly field observation/customer reality checks; quarterly strategy review connecting field adoption to retention and revenue.
+ Rituals: Weekly field-adoption review; monthly field observation/customer reality checks; quarterly strategy review connecting field adoption to retention and revenue.
 
- 	Falsification trigger: If field adoption materially improves without corresponding improvement in retention after two quarters, reassess the assumption that field adoption is the primary driver of churn.
+ Falsification trigger: If field adoption materially improves without corresponding improvement in retention after two quarters, reassess the assumption that field adoption is the primary driver of churn.
 
 
 ## 4. One hard no
