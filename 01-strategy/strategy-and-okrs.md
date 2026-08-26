@@ -8,10 +8,10 @@
 |---|---|
 | Winning aspiration | Make Meridian the first place field teams turn to for documenting job-site work—combining the speed and simplicity of a mobile-first tool with the trusted enterprise system of record that construction companies depend on. |
 | Where to play | Primary battleground: U.S. mid-market general contractors ($5M–$50M) that are at risk of switching to simpler, mobile-first competitors. We will focus on companies where field adoption is a meaningful pain point and where superintendents and foremen have enough autonomy to influence tool usage.  
-| | Strategic base: Existing $50M+ enterprise customers where Meridian is already embedded as the system of record. We will protect and deepen field adoption within these accounts without compromising the finance/compliance workflows that drive enterprise retention.
-| | Core use case: Daily field documentation and coordination—progress photos, punch items, site updates, and crew communication. We will not expand into scheduling, estimating, or ERP functionality as primary use cases.
-| | Geography: U.S. construction markets with high concentrations of mid-market and enterprise general contractors.
-| | Explicit no’s: We will not chase small contractors where enterprise coordination isn’t valuable, and we will not pursue enterprise feature parity as the primary path to winning the mid-market.|
+*Strategic base: Existing $50M+ enterprise customers where Meridian is already embedded as the system of record. We will protect and deepen field adoption within these accounts without compromising the finance/compliance workflows that drive enterprise retention.
+*Core use case: Daily field documentation and coordination—progress photos, punch items, site updates, and crew communication. We will not expand into scheduling, estimating, or ERP functionality as primary use cases.
+*Geography: U.S. construction markets with high concentrations of mid-market and enterprise general contractors.
+*Explicit no’s: We will not chase small contractors where enterprise coordination isn’t valuable, and we will not pursue enterprise feature parity as the primary path to winning the mid-market.|
 | How to win | We win by combining the speed and simplicity of a mobile-first field experience with the trusted enterprise system of record Meridian already owns. Field teams can capture and share job-site information faster than using a camera and group text, while that information flows directly into the finance, compliance, and operational workflows the enterprise already depends on. Our advantage comes from connecting these two experiences without allowing enterprise complexity to slow down the field. |
 
 ## 2. Capabilities required 
