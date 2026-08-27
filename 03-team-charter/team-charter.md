@@ -36,7 +36,7 @@
 
 ## Link to full artifact
 
-_team-charter.md
+team-charter.md
 
 ------------------------------------------------------
 (for reference)
