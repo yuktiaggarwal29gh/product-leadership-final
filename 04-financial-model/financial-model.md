@@ -24,10 +24,6 @@ _The specific signals that would tell you this bet is no longer worth pursuing. 
 
 > If **field DAU** does not reach **25% of active field users** (roughly halfway to the 55% target) by **month 6**, we will **reassess whether the field-adoption thesis is correct before committing further engineering investment, rather than continuing to fund the build on faith.**
 
-## Link to full artifact
-
-_[link to this deliverable in your repo]_
-
 
 ## Link to full artifact
 
