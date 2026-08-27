@@ -10,11 +10,11 @@ _A multi-team roadmap organized by **outcomes**, not feature lists. Show how nea
 
 | Horizon | Outcome / bet | Owning team(s) | Success signal |
 |---|---|---|---|
-| Now (0 to 3 mo) | _____ | _____ | _____ |
-| Next (3 to 6 mo) | _____ | _____ | _____ |
-| Later (6 to 12 mo) | _____ | _____ | _____ |
+| **Now (0 to 3 mo)** | We bet simplifying the daily log (14→4 fields), shipping a dedicated foreman-facing mobile app, and reliable offline capture/sync will make Meridian the default field-documentation tool over camera + group text | Mobile/Field Product, Field Engineering, Design | Field DAU rises from 12% baseline toward 55% target; time-to-first-log on new sites drops |
+| **Next (3 to 6 mo)** | We bet validating whether compliance-checklist automation drives retention, fixing the broken Procore integration, adding schedule-change push notifications, and instrumenting field-adoption cohort tracking will protect enterprise trust while confirming field adoption is translating into retention | Enterprise Product, Integrations Eng, Data/Analytics | Procore-affected accounts stabilize; cohort data shows early correlation between field adoption and retention; compliance-checklist decision made (build/defer) |
+| **Later (6 to 12 mo)** | We bet that once field adoption is proven, selectively investing in enterprise-expansion plays (exec reporting, subcontractor portal) and adjacent capabilities (AI-assisted RFI drafting, time-tracking, web UI refresh) can extend value — but only where field data supports it | Enterprise Product, Platform, Growth | Mid-market churn trending from 22% toward 10%; any Later item greenlit only with field-adoption or retention data backing it, not commercial pressure alone |
 
-Roadmap
+
 # Meridian — Now / Next / Later Roadmap
 
 **Frame:** Outcome bets, not delivery milestones. Everything ladders to: *make Meridian indispensable to the field without eroding enterprise depth.*
