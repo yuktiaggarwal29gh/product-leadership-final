@@ -51,15 +51,20 @@ _[link to this deliverable in your repo]_
 	•	The field-adoption bet in full: daily-log simplification, the foreman-facing mobile app, and offline-first capture/sync (the three Now-quarter Rocks)
 	•	Field DAU as the leading metric (KR1: 12%→55%), and the engineering/design capacity required to move it
 	•	Field UX decisions — capture flow, offline behavior, mobile-app scope — without requiring enterprise sign-off, as long as no finance/compliance capability is touched
+
 - **What is out of scope.:** •	Enterprise-facing features (executive dashboards, subcontractor portals, compliance automation) — these belong to PM 2’s enterprise roadmap
 	•	Any change to finance/compliance capabilities proven to drive enterprise retention — protected under the hard no regardless of which team is asking
 	•	Scheduling, estimating, or ERP functionality — out of the core use case entirely, for any team
+
 - **Cross-boundary decisions that need a joint call.:** •	Any engineering resourcing decision that pulls shared capacity between field-adoption work and enterprise-commitment work
 	•	Any change to a finance/compliance capability’s investment level or architecture, even when justified as “unnecessarily constraining field adoption”
 	•	Any commitment tied to a client renewal or contract negotiation that would consume engineering time otherwise allocated to a Now/Next roadmap item
+
 - **How We Decide. Who decides feature and scope calls.:** •	PM 1 (Field Adoption) has final call on field-experience scope, sequencing within the field roadmap, and whether a proposed change serves KR1
 	•	PM 2 (Enterprise) has final call on enterprise-feature scope and renewal-related commitments, within the boundary of the hard no
-	•	You (Foundations owner) hold the tie-breaking call specifically on shared engineering capacity
+	•	I (Foundations owner) hold the tie-breaking call specifically on shared engineering capacity
+
+
 - **How cross-team conflicts escalate.:** 1.	PM 2 raises the request with PM 1 directly first, within 48 hours of the ask surfacing — stating the specific renewal/deal it’s tied to and the engineering capacity required
 	2.	If PM 1 and PM 2 don’t reach agreement within 2 business days, it escalates to you (Foundations owner) with both sides’ cases in writing
 	3.	You decide within 2 business days, weighing the request against the hard no and the quarter’s Rocks — KR1 work is protected by default unless the enterprise ask is a proven retention driver, not just commercially urgent
