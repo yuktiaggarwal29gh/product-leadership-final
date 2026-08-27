@@ -61,11 +61,14 @@ _A multi-team roadmap organized by **outcomes**, not feature lists. Show how nea
 
 _What did you sequence first, what did you push out, and what did you cut entirely, and why? Use WSJF / cost of delay reasoning where it helps._
 
-> I chose to sequence … first because …
->
-> I pushed out … because …
->
-> I cut … entirely because …
+## Trade-off Memo
+
+**I chose to sequence** the daily-log simplification (item #4), the foreman-facing mobile app (item #7), and offline-first reliability (item #1) first **because** they carry the highest cost of delay against KR1 (field DAU 12%→55%). Every week field teams keep defaulting to camera + group text is a week of lost adoption momentum and lost data on whether the strategy is even working. These three also form a genuine minimum viable field experience: a fast, simple UI (#4) built on a dedicated app (#7) that actually works on job sites without signal (#1). Shipping any one alone would be incomplete — a simplified log on an unreliable connection, or a foreman app that's still bloated, doesn't solve the adoption problem the strategy is betting on.
+
+**I pushed out** the Procore integration fix, compliance-checklist automation (item #5), push notifications (item #11), field-adoption cohort-tracking instrumentation, and the multi-project data-model migration (item #3) **because** their cost of delay is real but lower and different in kind. The Procore fix protects existing enterprise relationships (a KR2 guardrail) rather than driving the KR1 bet forward — it's important, but reactive, not strategic momentum. Item #5 needs a retention-driver-vs-sales-chip decision before it can be resourced at all, so building it now would be resourcing an unvalidated assumption. Push notifications are a genuine field-adoption lever but smaller in scope than the three Now bets — a natural fast-follow once the core app exists, not a reason to fragment focus this quarter. Cohort tracking can't produce meaningful signal until the Now bets have been live long enough to generate data to track. And the data-model migration is enabling infrastructure with no standalone outcome — it only earns its place once it's provably blocking a Now or Next bet.
+
+**I cut** the executive reporting dashboard (item #10), the time-tracking module (item #12), the real-time weather integration (item #6), the subcontractor portal (item #14), AI-assisted RFI drafting (item #9), and the web UI refresh (item #13) entirely **because** none of them move field adoption, and each represents a different flavor of the "loudest source ≠ most strategic" trap this exercise is designed to test. The executive dashboard and time-tracking module are the sharpest cases: both carry real commercial urgency (2 renewals at risk; 3 clients in active negotiations), but urgency isn't strategic fit — funding them now would mean optimizing for the buyer persona that already adopted Meridian, which directly violates the hard no. The weather integration falls outside scheduling, which was explicitly ruled out of scope in Where to Play. The subcontractor portal and RFI drafting are plausible future expansions, but resourcing them now would divert build capacity from the field-adoption bets that the entire quarter's strategy is riding on. The web UI refresh is cosmetic and buyer-facing — it has no connection to the metric that determines whether Meridian survives.
+
 
 ## Link to full artifact
 
