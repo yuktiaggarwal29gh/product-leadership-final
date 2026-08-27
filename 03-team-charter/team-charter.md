@@ -6,25 +6,33 @@
 
 ## 1. What We Own
 
-_The team's mandate: the outcomes and surfaces this team is accountable for end-to-end, and the explicit edges where your ownership stops._
+*The team's mandate: the outcomes and surfaces this team is accountable for end-to-end, and the explicit edges where your ownership stops.*
 
 | Area | We own it | We influence it (don't own) |
 |---|---|---|
-| _____ | _____ | _____ |
-| _____ | _____ | _____ |
+| Field experience | Daily-log simplification, foreman-facing mobile app, offline-first capture/sync | — |
+| Field adoption metric | Field DAU (KR1: 12%→55%) | Enterprise account health / renewal rate (PM 2 owns) |
 
-> Our mission in one line: _____
+**Explicitly out of scope:** Enterprise-facing features (executive dashboards, subcontractor portals, compliance automation) — owned by PM 2. Finance/compliance capability changes — protected under the hard no regardless of who's asking. Scheduling, estimating, or ERP functionality — out of the core use case entirely.
+
+**Requires a joint call:** engineering resourcing tradeoffs between field and enterprise work; any change to finance/compliance investment or architecture; renewal-tied commitments that would consume roadmap capacity.
+
+**Our mission in one line:** Make Meridian the tool field teams reach for first, without weakening the enterprise system of record that earns Meridian its trust.
+
+---
 
 ## 2. How We Decide
 
-_The team's decision-making operating model: the decisions you make, who makes each call, and how disagreements resolve._
+*The team's decision-making operating model: the decisions you make, who makes each call, and how disagreements resolve.*
 
 | Decision type | Who decides | Who's consulted | How we break a tie |
 |---|---|---|---|
-| _____ | _____ | _____ | _____ |
-| _____ | _____ | _____ | _____ |
+| Field-experience scope & sequencing | PM 1 (Field Adoption) | Yukti (Foundations owner) | Yukti, weighed against KR1 |
+| Enterprise-feature scope & renewal commitments | PM 2 (Enterprise) | Yukti (Foundations owner) | Yukti, weighed against the hard no |
+| Shared engineering capacity | Yukti (Foundations owner) | PM 1 and PM 2 | Yukti's call within 2 business days, using hard no + quarter's Rocks as the standard |
 
-> Our default: _____ decides; we escalate to _____ when _____.
+**Our default:** PM 1 and PM 2 decide within their own domains; we escalate to Yukti when a decision crosses both domains or competes for shared engineering capacity, or when an outside party (e.g., enterprise sales, an exec sponsor) disputes a Foundations decision — in which case Yukti responds within 2 business days, and unresolved disputes go to Yukti's manager/exec sponsor, whose call is final for that instance and logged for the quarterly strategy review.
+
 
 ## Link to full artifact
 
