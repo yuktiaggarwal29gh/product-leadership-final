@@ -36,8 +36,10 @@
 
 ## Link to full artifact
 
-_[link to this deliverable in your repo]_
+_team-charter.md
 
+------------------------------------------------------
+(for reference)
 # Lead and Develop High-Performing Teams, Module 3 Lab
 
 ## Name the situation
